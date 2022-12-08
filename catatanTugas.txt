@@ -1,1 +1,2 @@
 saya sedang belajar git dan gitHub
+untuk persiapan UAS Sistem Operasi
